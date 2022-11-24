@@ -1,0 +1,32 @@
+{ 
+  "description": "This NFT proves I've created and deployed my first ERC721 smart contract on Goerli with Alchemy Road to Web3",
+  "external_url": "Alchemy.com/?a=roadtoweb3weekone",
+  "image": "https://ipfs.filebase.io/ipfs/Qmc5Xd76yQKgqBzBmsjYTnHfnXRGUzezChYVbT916R3GAJ",
+  "name": "A cool NFT", 
+  "attributes": [
+    {
+      "trait_type": "Branch", 
+      "value": "Blockchain Development"
+    }, 
+    {
+      "trait_type": "Branch", 
+      "value": "Smart Contract Development"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Rating", 
+      "value": 4.4
+    }, 
+    {
+      "trait_type": "Mode", 
+      "value": "Online"
+    },  
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }]
+  }
